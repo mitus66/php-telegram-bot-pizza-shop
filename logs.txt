@@ -1,0 +1,129 @@
+logsTelegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [query_id] => AAELgToeAAAAAAuBOh6CLXDB
+            [user] => Array
+                (
+                    [id] => 507150603
+                    [first_name] => Dmitry
+                    [last_name] => Maslakov
+                    [username] => mitus66
+                    [language_code] => uk
+                    [allows_write_to_pm] => 1
+                )
+
+            [cart] => Array
+                (
+                    [1] => Array
+                        (
+                            [id] => 1
+                            [title] => Bibimbap
+                            [price] => 650
+                            [img] => bibimbap.png
+                            [qty] => 1
+                        )
+
+                    [19] => Array
+                        (
+                            [id] => 19
+                            [title] => Ramen
+                            [price] => 500
+                            [img] => ramen.png
+                            [qty] => 1
+                        )
+
+                )
+
+            [total_sum] => 1150
+        )
+
+    [escapeWhenCastingToString:protected] => 
+    [updateType:protected] => query_id
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [query_id] => AAELgToeAAAAAAuBOh6CLXDB
+            [user] => Array
+                (
+                    [id] => 507150603
+                    [first_name] => Dmitry
+                    [last_name] => Maslakov
+                    [username] => mitus66
+                    [language_code] => uk
+                    [allows_write_to_pm] => 1
+                )
+
+            [cart] => Array
+                (
+                    [1] => Array
+                        (
+                            [id] => 1
+                            [title] => Bibimbap
+                            [price] => 650
+                            [img] => bibimbap.png
+                            [qty] => 1
+                        )
+
+                    [19] => Array
+                        (
+                            [id] => 19
+                            [title] => Ramen
+                            [price] => 500
+                            [img] => ramen.png
+                            [qty] => 1
+                        )
+
+                )
+
+            [total_sum] => 1150
+        )
+
+    [escapeWhenCastingToString:protected] => 
+    [updateType:protected] => query_id
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [query_id] => AAELgToeAAAAAAuBOh6CLXDB
+            [user] => Array
+                (
+                    [id] => 507150603
+                    [first_name] => Dmitry
+                    [last_name] => Maslakov
+                    [username] => mitus66
+                    [language_code] => uk
+                    [allows_write_to_pm] => 1
+                )
+
+            [cart] => Array
+                (
+                    [1] => Array
+                        (
+                            [id] => 1
+                            [title] => Bibimbap
+                            [price] => 650
+                            [img] => bibimbap.png
+                            [qty] => 1
+                        )
+
+                    [19] => Array
+                        (
+                            [id] => 19
+                            [title] => Ramen
+                            [price] => 500
+                            [img] => ramen.png
+                            [qty] => 1
+                        )
+
+                )
+
+            [total_sum] => 1150
+        )
+
+    [escapeWhenCastingToString:protected] => 
+    [updateType:protected] => query_id
+)
